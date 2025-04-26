@@ -1,0 +1,21 @@
+== Logs ==
+  === SEYIELD DEPLOYMENT ADDRESSES ===
+  Deployer:           0x5BAC06Ba1E1be967f8b9a6e962D1bC2a121F080a
+  ------------------------
+  Token Contracts:
+  ------------------------
+  USDC:               0xDb8F9c652f613FAdB680daE048642D0e6AC8F733
+  pSYLD:              0x635f07BaB844533557dB2CC7bf8F515371e884E1
+  ySYLD:              0x62D7c9a5462a69aC2e59B96DfdC3572b3f365f3e
+  ------------------------
+  Core Contracts:
+  ------------------------
+  Treasury:           0xEae72AC3F92D846905e5317E6CEb1Ae92Df08CDc
+  YieldProtocol:      0xDFd5D5b60CDD090156E774d4D97D9a778a50Cfbe
+  FundsVault:         0x4A4c34dCfACEf3190907653DE8ba3d8D992Dc178
+  ------------------------
+  Auxiliary Contracts:
+  ------------------------
+  Faucet:             0xE6C120e6dB3E3c6af624b42617AD5922E1Bda681
+  Merchant:           0xF88A7306b8edCc6Ffa48bF0EA1F0f530a6bC1D30
+  =================================
